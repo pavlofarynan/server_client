@@ -1,3 +1,3 @@
 # server_client
-testing github
+testing github2.0
 server and client project
