@@ -1,2 +1,1 @@
-def say_name(name):
-    print(f"my name is {name}")
+print("my name is Hi")
